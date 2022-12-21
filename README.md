@@ -21,6 +21,7 @@
  - **Recursos de diseño**: [Link](https://github.com/bradtraversy/design-resources-for-developers)
  - **FrontendMentor**, es de pago pero tiene muchos projectos gratis [Link](https://www.frontendmentor.io/)
  - **Repo de proyectos de Laboratoria**, [Link](https://github.com/Laboratoria/bootcamp/tree/main/projects)
+ - **40 Proyectos en JS**, [Link](https://www.freecodecamp.org/espanol/news/40-proyectos-de-javascript-para-principiantes-ideas-faciles-para-empezar-a-codificar-en-js/)
 ## Música🔈
 > Porque no solo de café/te/chai (ingrese su bebida favorita aquí) viven lxs desarrolladorxs.
 - Lofi Freecodecamp [Link](https://coderadio.freecodecamp.org/)
