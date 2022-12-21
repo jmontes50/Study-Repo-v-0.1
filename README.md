@@ -29,4 +29,6 @@
 - Epic/Motivational Soundtrack [Link](https://www.youtube.com/watch?v=_oGEhRZkwcg)
 - Winning Match [Link](https://www.youtube.com/watch?v=aBKdQ0pydjs)
 
+*El repositorio esta abierto, se aceptan PR!!! y si te gusta dale una* ⭐
+
 ![Perritu](perritu.jpg)
