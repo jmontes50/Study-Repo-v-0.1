@@ -31,4 +31,4 @@
 
 *El repositorio esta abierto, se aceptan PR!!! y si te gusta dale una* ⭐
 
-![Perritu](perritu.jpg){style="display: block; margin: 0 auto" }
+![Perritu](perritu.jpg)
